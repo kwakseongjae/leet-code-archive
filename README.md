@@ -25,8 +25,9 @@ Each problem is organized in the following structure:
 
 ### SQL 50
 
-| #   | Title | Difficulty | Solution & Explanation | Key Concepts |
-| --- | ----- | ---------- | ---------------------- | ------------ |
+| #    | Title                           | Difficulty | Solution & Explanation          | Key Concepts        |
+| ---- | ------------------------------- | ---------- | ------------------------------- | ------------------- |
+| 1757 | Recyclable and Low Fat Products | Easy       | [Solution](./sql-50/eazy/1757/) | WHERE, AND Operator |
 
 ### Top Interview 150
 
