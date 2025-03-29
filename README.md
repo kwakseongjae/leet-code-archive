@@ -29,6 +29,8 @@ Each problem is organized in the following structure:
 | ---- | ------------------------------- | ---------- | ------------------------------- | -------------------------- |
 | 1757 | Recyclable and Low Fat Products | Easy       | [Solution](./sql-50/eazy/1757/) | WHERE, AND Operator        |
 | 584  | Find Customer Referee           | Easy       | [Solution](./sql-50/easy/584/)  | NULL Handling, OR Operator |
+| 595  | Big Countries                    | Easy       | [Solution](./sql-50/easy/595/)  | WHERE, OR Operator         |
+
 
 ### Top Interview 150
 
