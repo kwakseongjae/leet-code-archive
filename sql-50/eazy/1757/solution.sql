@@ -1,5 +1,5 @@
 /*
- * Author: [Your Name]
+ * Author: Seong Jae, Kwak
  * Problem: 1757. Recyclable and Low Fat Products
  * Problem Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
  */
