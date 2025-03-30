@@ -33,6 +33,8 @@ Each problem is organized in the following structure:
 | 1148 | Article Views I                                | Easy       | [Solution](./sql-50/eazy/1148/) | DISTINCT, Self-Join                |
 | 1683 | Invalid Tweets                                 | Easy       | [Solution](./sql-50/eazy/1683/) | LENGTH Function, String Operations |
 | 1378 | Replace Employee ID With The Unique Identifier | Easy       | [Solution](./sql-50/eazy/1378/) | LEFT JOIN, NULL Handling           |
+| 1068 | Product Sales Analysis I                       | Easy       | [Solution](./sql-50/eazy/1068/) | INNER JOIN, Table Aliases          |
+
 
 ### Top Interview 150
 
