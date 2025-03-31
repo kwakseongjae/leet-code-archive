@@ -25,17 +25,18 @@ Each problem is organized in the following structure:
 
 ### SQL 50
 
-| #    | Title                                                  | Difficulty | Solution & Explanation          | Key Concepts                       |
-| ---- | ------------------------------------------------------ | ---------- | ------------------------------- | ---------------------------------- |
-| 1757 | Recyclable and Low Fat Products                        | Easy       | [Solution](./sql-50/eazy/1757/) | WHERE, AND Operator                |
-| 584  | Find Customer Referee                                  | Easy       | [Solution](./sql-50/easy/584/)  | NULL Handling, OR Operator         |
-| 595  | Big Countries                                          | Easy       | [Solution](./sql-50/easy/595/)  | WHERE, OR Operator                 |
-| 1148 | Article Views I                                        | Easy       | [Solution](./sql-50/eazy/1148/) | DISTINCT, Self-Join                |
-| 1683 | Invalid Tweets                                         | Easy       | [Solution](./sql-50/eazy/1683/) | LENGTH Function, String Operations |
-| 1378 | Replace Employee ID With The Unique Identifier         | Easy       | [Solution](./sql-50/eazy/1378/) | LEFT JOIN, NULL Handling           |
-| 1068 | Product Sales Analysis I                               | Easy       | [Solution](./sql-50/eazy/1068/) | INNER JOIN, Table Aliases          |
-| 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy       | [Solution](./sql-50/easy/1581/) | NOT EXISTS, Subquery, Aggregation  |
-| 197  | Rising Temperature                                     | Easy       | [Solution](./sql-50/easy/197/)  | Self-Join, Date Functions          |
+| #    | Title                                                  | Difficulty | Solution & Explanation          | Key Concepts                            |
+| ---- | ------------------------------------------------------ | ---------- | ------------------------------- | --------------------------------------- |
+| 1757 | Recyclable and Low Fat Products                        | Easy       | [Solution](./sql-50/eazy/1757/) | WHERE, AND Operator                     |
+| 584  | Find Customer Referee                                  | Easy       | [Solution](./sql-50/easy/584/)  | NULL Handling, OR Operator              |
+| 595  | Big Countries                                          | Easy       | [Solution](./sql-50/easy/595/)  | WHERE, OR Operator                      |
+| 1148 | Article Views I                                        | Easy       | [Solution](./sql-50/eazy/1148/) | DISTINCT, Self-Join                     |
+| 1683 | Invalid Tweets                                         | Easy       | [Solution](./sql-50/eazy/1683/) | LENGTH Function, String Operations      |
+| 1378 | Replace Employee ID With The Unique Identifier         | Easy       | [Solution](./sql-50/eazy/1378/) | LEFT JOIN, NULL Handling                |
+| 1068 | Product Sales Analysis I                               | Easy       | [Solution](./sql-50/eazy/1068/) | INNER JOIN, Table Aliases               |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy       | [Solution](./sql-50/easy/1581/) | NOT EXISTS, Subquery, Aggregation       |
+| 197  | Rising Temperature                                     | Easy       | [Solution](./sql-50/easy/197/)  | Self-Join, Date Functions               |
+| 1661 | Average Time of Process per Machine                    | Easy       | [Solution](./sql-50/eazy/1661/) | Self-Join, AVG Function, ROUND Function |
 
 ### Top Interview 150
 
