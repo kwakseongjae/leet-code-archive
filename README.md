@@ -35,6 +35,7 @@ Each problem is organized in the following structure:
 | 1378 | Replace Employee ID With The Unique Identifier         | Easy       | [Solution](./sql-50/eazy/1378/) | LEFT JOIN, NULL Handling           |
 | 1068 | Product Sales Analysis I                               | Easy       | [Solution](./sql-50/eazy/1068/) | INNER JOIN, Table Aliases          |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy       | [Solution](./sql-50/easy/1581/) | NOT EXISTS, Subquery, Aggregation  |
+| 197  | Rising Temperature                                     | Easy       | [Solution](./sql-50/easy/197/)  | Self-Join, Date Functions          |
 
 ### Top Interview 150
 
