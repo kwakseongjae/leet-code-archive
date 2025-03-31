@@ -38,6 +38,7 @@ Each problem is organized in the following structure:
 | 197  | Rising Temperature                                     | Easy       | [Solution](./sql-50/easy/197/)  | Self-Join, Date Functions               |
 | 1661 | Average Time of Process per Machine                    | Easy       | [Solution](./sql-50/eazy/1661/) | Self-Join, AVG Function, ROUND Function |
 | 577  | Employee Bonus                                         | Easy       | [Solution](./sql-50/eazy/577/)  | LEFT JOIN, NULL Filtering, OR Operator  |
+| 1280 | Students and Examinations                              | Easy       | [Solution](./sql-50/eazy/1280/) | CROSS JOIN, LEFT JOIN, GROUP BY         |
 
 ### Top Interview 150
 
