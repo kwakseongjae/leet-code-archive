@@ -39,6 +39,7 @@ Each problem is organized in the following structure:
 | 1661 | Average Time of Process per Machine                    | Easy       | [Solution](./sql-50/eazy/1661/) | Self-Join, AVG Function, ROUND Function |
 | 577  | Employee Bonus                                         | Easy       | [Solution](./sql-50/eazy/577/)  | LEFT JOIN, NULL Filtering, OR Operator  |
 | 1280 | Students and Examinations                              | Easy       | [Solution](./sql-50/eazy/1280/) | CROSS JOIN, LEFT JOIN, GROUP BY         |
+| 570  | Managers with at Least 5 Direct Reports                | Medium     | [Solution](./sql-50/eazy/570/)  | Subquery, IN Operator, GROUP BY, HAVING |
 
 ### Top Interview 150
 
