@@ -40,6 +40,7 @@ Each problem is organized in the following structure:
 | 577  | Employee Bonus                                         | Easy       | [Solution](./sql-50/eazy/577/)  | LEFT JOIN, NULL Filtering, OR Operator  |
 | 1280 | Students and Examinations                              | Easy       | [Solution](./sql-50/eazy/1280/) | CROSS JOIN, LEFT JOIN, GROUP BY         |
 | 570  | Managers with at Least 5 Direct Reports                | Medium     | [Solution](./sql-50/eazy/570/)  | Subquery, IN Operator, GROUP BY, HAVING |
+| 1934 | Confirmation Rate                                      | Medium     | [Solution](./sql-50/eazy/1934/) | LEFT JOIN, CASE, AVG, IFNULL, ROUND     |
 
 ### Top Interview 150
 
