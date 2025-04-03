@@ -41,6 +41,7 @@ Each problem is organized in the following structure:
 | 1280 | Students and Examinations                              | Easy       | [Solution](./sql-50/eazy/1280/)   | CROSS JOIN, LEFT JOIN, GROUP BY         |
 | 570  | Managers with at Least 5 Direct Reports                | Medium     | [Solution](./sql-50/medium/570/)  | Subquery, IN Operator, GROUP BY, HAVING |
 | 1934 | Confirmation Rate                                      | Medium     | [Solution](./sql-50/medium/1934/) | LEFT JOIN, CASE, AVG, IFNULL, ROUND     |
+| 620  | Not Boring Movies                                      | Easy       | [Solution](./sql-50/eazy/620/)    | MOD, Filter, ORDER BY                   |
 
 ### Top Interview 150
 
