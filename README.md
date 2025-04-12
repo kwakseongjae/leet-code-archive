@@ -6,7 +6,7 @@ Most solutions are implemented in MySQL, and detailed explanations are provided 
 
 Solutions are based on [SQL 50](https://leetcode.com/studyplan/top-sql-50/) and [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plans.
 
-## Contact
+## Contact 
 
 If you have any questions or suggestions, feel free to reach out to me at gkffhdnls13@gmail.com
 
