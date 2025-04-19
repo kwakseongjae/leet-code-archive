@@ -6,7 +6,7 @@ Most solutions are implemented in MySQL, and detailed explanations are provided 
 
 Solutions are based on [SQL 50](https://leetcode.com/studyplan/top-sql-50/) and [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) study plans.
 
-## Contact 
+## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at gkffhdnls13@gmail.com
 
@@ -43,6 +43,7 @@ Each problem is organized in the following structure:
 | 1934 | Confirmation Rate                                      | Medium     | [Solution](./sql-50/medium/1934/) | LEFT JOIN, CASE, AVG, IFNULL, ROUND       |
 | 620  | Not Boring Movies                                      | Easy       | [Solution](./sql-50/eazy/620/)    | MOD, Filter, ORDER BY                     |
 | 1251 | Average Selling Price                                  | Easy       | [Solution](./sql-50/eazy/1251/)   | JOIN, BETWEEN, Weighted Average, GROUP BY |
+| 1075 | Project Employees I                                    | Easy       | [Solution](./sql-50/eazy/1075/)   | LEFT JOIN, AVG, IFNULL, ROUND, GROUP BY   |
 
 ### Top Interview 150
 
