@@ -44,6 +44,7 @@ Each problem is organized in the following structure:
 | 620  | Not Boring Movies                                      | Easy       | [Solution](./sql-50/eazy/620/)    | MOD, Filter, ORDER BY                     |
 | 1251 | Average Selling Price                                  | Easy       | [Solution](./sql-50/eazy/1251/)   | JOIN, BETWEEN, Weighted Average, GROUP BY |
 | 1075 | Project Employees I                                    | Easy       | [Solution](./sql-50/eazy/1075/)   | LEFT JOIN, AVG, IFNULL, ROUND, GROUP BY   |
+| 1633 | Percentage of Users Attended a Contest                | Easy       | [Solution](./sql-50/eazy/1633/)   | Subquery, COUNT, DISTINCT, ORDER BY |
 
 ### Top Interview 150
 
